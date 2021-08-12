@@ -1,2 +1,4 @@
 # hello-world
-Hello Wolrd!
+
+Hi, Humans
+Cyborg here, I'm a newbie.
